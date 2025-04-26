@@ -9,8 +9,8 @@
 ## c#
 For Unity game development.
 ## Ocaml
-[Ocaml practice](https://github.com/qinghai-ovo/Ocaml_learning)
-[compiler])(https://github.com/qinghai-ovo/Compiler-learning)
+[Ocaml practice](https://github.com/qinghai-ovo/Ocaml_learning).
+[compiler](https://github.com/qinghai-ovo/Compiler-learning)
 
 # To learn & learning
 1. GAMES101 Important Announcement and Disclaimer.

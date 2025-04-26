@@ -1,16 +1,21 @@
-## Skill and work
-# C&C++
+# Skill and work
+## C&C++
 [algorithm practice](https://github.com/qinghai-ovo/C_learning).
-# Java
+## Java
 [JavaFx Game](https://github.com/qinghai-ovo/FireboyWatergirl).
-# Unity
+## Unity
 [Tps Game demo](https://github.com/qinghai-ovo/TPS-game-practice).
 [STG game](https://github.com/qinghai-ovo/Sapceman)
-# c#
+## c#
 For Unity game development.
-# Ocaml
+## Ocaml
 [Ocaml practice](https://github.com/qinghai-ovo/Ocaml_learning)
 [compiler])(https://github.com/qinghai-ovo/Compiler-learning)
+
+# To learn & learning
+1. GAMES101 Important Announcement and Disclaimer.
+2. GAMES104 Morden Game Engine
+3. Unreal 3D game devlopment
 <!--
 **qinghai-ovo/qinghai-ovo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

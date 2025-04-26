@@ -1,12 +1,16 @@
 ## Skill and work
 # C&C++
-[algorithm practice]{https://github.com/qinghai-ovo/C_learning}.
+[algorithm practice](https://github.com/qinghai-ovo/C_learning).
 # Java
-[JavaFx Game]{https://github.com/qinghai-ovo/FireboyWatergirl}.
+[JavaFx Game](https://github.com/qinghai-ovo/FireboyWatergirl).
 # Unity
-[Tps Game demo]{https://github.com/qinghai-ovo/TPS-game-practice}.
+[Tps Game demo](https://github.com/qinghai-ovo/TPS-game-practice).
+[STG game](https://github.com/qinghai-ovo/Sapceman)
 # c#
 For Unity game development.
+# Ocaml
+[Ocaml practice](https://github.com/qinghai-ovo/Ocaml_learning)
+[compiler])(https://github.com/qinghai-ovo/Compiler-learning)
 <!--
 **qinghai-ovo/qinghai-ovo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -13,7 +13,7 @@ For Unity game development.
 [compiler](https://github.com/qinghai-ovo/Compiler-learning)
 
 # To learn & learning
-1. GAMES101 Important Announcement and Disclaimer.
+1. GAMES101 Computer Graphics.
 2. GAMES104 Modern Game Engine
 3. Unreal5 3D game devlopment
 <!--

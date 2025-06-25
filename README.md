@@ -1,18 +1,19 @@
 # Skill and work
 ## C&C++
-[algorithm practice](https://github.com/qinghai-ovo/C_learning).
+[C code practice and project in TUS](https://github.com/qinghai-ovo/C_learning).
+[データファイルを基づいて世界の都市、国家の情報を探すプログラム](https://github.com/qinghai-ovo/C_learning/tree/main/Assignment).
+
 ## Java
-[JavaFx Game](https://github.com/qinghai-ovo/FireboyWatergirl).
-## Unity
+[JavaFx Game Project](https://github.com/qinghai-ovo/FireboyWatergirl).
+## Unity& c#
 [Tps Game demo](https://github.com/qinghai-ovo/TPS-game-practice).
-[STG game](https://github.com/qinghai-ovo/Sapceman)
-## c#
-For Unity game development.
+[STG game SpaceMan](https://github.com/qinghai-ovo/Sapceman)
+
 ## Ocaml
 [Ocaml practice](https://github.com/qinghai-ovo/Ocaml_learning).
 [compiler](https://github.com/qinghai-ovo/Compiler-learning)
 
-# To learn & learning
+# learning
 1. GAMES101 Computer Graphics.
 2. GAMES104 Modern Game Engine
 3. Unreal5 3D game devlopment

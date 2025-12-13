@@ -12,7 +12,7 @@
 
 [STG game SpaceMan](https://github.com/qinghai-ovo/Sapceman)
 
-[感情認識 2DARPG](https://github.com/Project-Experimen)
+[感情認識 2DARPG](https://github.com/Project-Experiment-Group-1/IS-2025)
 
 ## Ocaml
 [Ocaml practice](https://github.com/qinghai-ovo/Ocaml_learning).      

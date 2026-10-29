@@ -13,7 +13,7 @@
 ## Unity& c#
 [感情認識 2DARPG（group work）](https://github.com/Project-Experiment-Group-1/IS-2025)
 
-[新感情認識 2DARPG（生成中）]
+[新！感情認識 2DARPG（制作中）]
 
 [Tps Game demo](https://github.com/qinghai-ovo/TPS-game-practice)
 

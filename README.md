@@ -26,10 +26,6 @@
 
 [compiler](https://github.com/qinghai-ovo/Compiler-learning)
 
-# learning
-1. GAMES101 Computer Graphics.
-2. GAMES104 Modern Game Engine
-3. Unreal5 3D game devlopment
 <!--
 **qinghai-ovo/qinghai-ovo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

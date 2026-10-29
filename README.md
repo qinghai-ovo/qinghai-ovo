@@ -4,6 +4,8 @@
 
 [データファイルを基づいて世界の都市、国家の情報を探すプログラム](https://github.com/qinghai-ovo/C_learning/tree/main/Assignment).
 
+[AI秘書](https://github.com/jphacks/tk_a_2519)
+
 ## Java
 [JavaFx Game Project](https://github.com/qinghai-ovo/FireboyWatergirl).
 

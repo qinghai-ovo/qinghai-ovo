@@ -1,4 +1,4 @@
-# Skill and work
+# Skill and works
 ## C&C++
 [C code practice and project in TUS](https://github.com/qinghai-ovo/C_learning).
 
@@ -11,9 +11,13 @@
 
 ## Unity& c#
 [感情認識 2DARPG（group work）](https://github.com/Project-Experiment-Group-1/IS-2025)
+
 [新感情認識 2DARPG（生成中）]
-[Tps Game demo](https://github.com/qinghai-ovo/TPS-game-practice).
+
+[Tps Game demo](https://github.com/qinghai-ovo/TPS-game-practice)
+
 [STG game SpaceMan](https://github.com/qinghai-ovo/Sapceman)
+
 
 
 ## Ocaml

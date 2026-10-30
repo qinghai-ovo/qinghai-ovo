@@ -26,7 +26,7 @@
 
 [compiler](https://github.com/qinghai-ovo/Compiler-learning)
 
-## TypeScript
+## Others
 [Kovaak Benchmark Tracker](https://github.com/qinghai-ovo/KovaakTracker)
 
 <!--

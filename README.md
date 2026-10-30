@@ -20,14 +20,12 @@
 [STG game SpaceMan](https://github.com/qinghai-ovo/Sapceman)
 
 
+## Others
+[Kovaak Benchmark Tracker](https://github.com/qinghai-ovo/KovaakTracker)
 
-## Ocaml
 [Ocaml practice](https://github.com/qinghai-ovo/Ocaml_learning).      
 
 [compiler](https://github.com/qinghai-ovo/Compiler-learning)
-
-## Others
-[Kovaak Benchmark Tracker](https://github.com/qinghai-ovo/KovaakTracker)
 
 <!--
 **qinghai-ovo/qinghai-ovo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
